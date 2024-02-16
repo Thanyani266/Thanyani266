@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanyani Gumani</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on [Aeather App](https://github.com/Thanyani266/Weather-App)
+- 🔭 I’m currently working on [Weather App](https://github.com/Thanyani266/Weather-App)
 
 - 🌱 I’m currently learning **Back-end - Node.JS => jwt athentication**
 
